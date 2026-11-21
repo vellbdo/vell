@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Connaissances à compléter</title>
+<meta name="vell-date" content="21/11/2026">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Noto+Sans:wght@400;600;700&display=swap">
+<style>
+/* Mise en page : une colonne de lecture ; barre de recherche et filtres collés en haut ; catégories dépliables avec
+   liseré de couleur à gauche selon l'état (comme dans Vell) ; thème unique de Vell, charbon et or */
+:root {
+  color-scheme: dark;
+  --fond: #0B0B0C; --carte: #151619; --carte-2: #1C1D20; --survol: #26272B; --filet: #303136; --bronze: #6E5A3E;
+  --texte: #ECE5D6; --texte-2: #A49A86; --texte-3: #766D5E; --or: #E8932F; --or-clair: #F7B860;
+  --rouge: #C9504A; --ambre: #D9A441; --bronze-clair: #A88A5E;
+  --titre: "Cinzel", "Trajan Pro", Georgia, serif;
+  --corps: "Noto Sans", "Segoe UI", system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+body { background: var(--fond); color: var(--texte); font: 15px/1.55 var(--corps); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--fond); }
+.page { max-width: 920px; margin: 0 auto; padding-block: 28px 72px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.tete { display: flex; gap: 16px; align-items: center; margin-bottom: 14px; }
+.tete img { width: 56px; height: 56px; flex: none; }
+.tete .sur { margin: 0; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--texte-3); }
+.tete h1 { margin: 2px 0 0; font: 700 clamp(22px, 4.2vw, 32px)/1.15 var(--titre); color: var(--or-clair); text-wrap: balance; }
+.intro { color: var(--texte-2); margin: 0 0 6px; max-width: 70ch; }
+.aider { background: var(--carte); border: 1px solid var(--filet); border-top: 2px solid var(--bronze); border-radius: 8px;
+  padding: 12px 16px; margin: 14px 0 0; font-size: 14px; color: var(--texte-2); }
+.aider b { color: var(--texte); }
+.aider ul { margin: 6px 0 0; padding-left: 20px; }
+.aider li { margin: 2px 0; }
+a { color: var(--or-clair); }
+.outils { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--fond);
+  padding-block: 12px 10px; border-bottom: 1px solid var(--filet); margin-top: 16px; display: grid; gap: 8px; }
+.recherche { width: 100%; font: 15px var(--corps); color: var(--texte); background: var(--carte-2); border: 1px solid var(--filet);
+  border-radius: 8px; padding: 10px 12px; }
+.recherche::placeholder { color: var(--texte-3); }
+.puces { display: flex; flex-wrap: wrap; gap: 6px; }
+.puce { font: 600 13px var(--corps); color: var(--texte-2); background: var(--carte); border: 1px solid var(--filet);
+  border-radius: 999px; padding: 5px 11px; cursor: pointer; display: inline-flex; gap: 6px; align-items: center;
+  font-variant-numeric: tabular-nums; }
+.puce:hover { background: var(--survol); color: var(--texte); }
+.puce[aria-pressed="true"] { color: var(--texte); border-color: var(--or); background: var(--carte-2); }
+.puce .n { color: var(--texte-3); font-weight: 400; }
+.marque { width: 9px; height: 9px; border-radius: 50%; flex: none; display: inline-block; }
+.marque.c { background: var(--rouge); } .marque.t { background: var(--ambre); } .marque.g { background: var(--bronze-clair); }
+:focus-visible { outline: 2px solid var(--or-clair); outline-offset: 2px; }
+.resume { color: var(--texte-3); font-size: 13px; margin: 12px 0 0; font-variant-numeric: tabular-nums; }
+.section { margin-top: 26px; }
+.section h2 { font: 700 18px var(--titre); color: var(--or-clair); margin: 0 0 10px; display: flex; gap: 10px; align-items: baseline; }
+.section h2 span { font: 400 13px var(--corps); color: var(--texte-3); }
+details.cat { background: var(--carte); border: 1px solid var(--filet); border-radius: 8px; margin: 6px 0; }
+details.cat > summary { cursor: pointer; list-style: none; padding: 10px 14px; display: flex; gap: 10px; align-items: center;
+  flex-wrap: wrap; }
+details.cat > summary::-webkit-details-marker { display: none; }
+details.cat > summary::before { content: "›"; color: var(--texte-3); font-size: 18px; line-height: 1; transition: transform .15s; }
+details.cat[open] > summary::before { transform: rotate(90deg); }
+details.cat > summary:hover { background: var(--carte-2); border-radius: 8px; }
+.cat-nom { font-weight: 600; flex: 1 1 240px; min-width: 0; }
+.compte { display: inline-flex; gap: 10px; font-size: 13px; color: var(--texte-2); font-variant-numeric: tabular-nums; }
+.compte span { display: inline-flex; gap: 5px; align-items: center; }
+.items { list-style: none; margin: 0; padding: 0 10px 10px; display: grid; gap: 6px; }
+.item { border-left: 3px solid var(--filet); background: var(--carte-2); border-radius: 0 6px 6px 0; padding: 8px 12px; min-width: 0; }
+.item.c { border-left-color: var(--rouge); } .item.t { border-left-color: var(--ambre); } .item.g { border-left-color: var(--bronze-clair); }
+.item .nom { font-weight: 700; color: #F5EFE3; overflow-wrap: anywhere; }
+.item .etat { font-size: 12px; color: var(--texte-3); margin-left: 6px; white-space: nowrap; }
+.item .sous { font-size: 12.5px; color: var(--texte-3); }
+.item .lieu { font-size: 13.5px; color: var(--texte); margin-top: 2px; }
+.item .lieu b { color: var(--texte-2); font-weight: 600; }
+.item .how { font-size: 13.5px; color: var(--texte-2); margin-top: 2px; overflow-wrap: anywhere; }
+.item .jeu { font-size: 12.5px; color: var(--texte-3); margin-top: 2px; font-style: italic; overflow-wrap: anywhere; }
+.vide { color: var(--texte-2); padding: 30px 0; text-align: center; }
+.pied { margin-top: 40px; color: var(--texte-3); font-size: 13px; border-top: 1px solid var(--filet); padding-top: 14px; }
+mark { background: rgba(232, 147, 47, .28); color: inherit; border-radius: 2px; }
+@media (prefers-reduced-motion: reduce) { details.cat > summary::before { transition: none; } }
+</style>
+</head>
+<body>
+
+
+<div class="page">
+  <header class="tete">
+    <img id="logo" alt="Emblème de Vell" width="56" height="56">
+    <div>
+      <p class="sur">Vell, compagnon de Black Desert</p>
+      <h1>Connaissances à compléter</h1>
+    </div>
+  </header>
+  <p class="intro">Chaque connaissance que Vell ne sait pas encore guider avec un lieu sûr, rubrique par rubrique.
+    Vous en avez obtenu une ? Votre réponse aide tous les joueurs.</p>
+  <div class="aider">
+    <b>Pour aider</b>, donnez pour une connaissance de cette liste :
+    <ul>
+      <li><b>son nom exact</b>, comme dans le jeu ;</li>
+      <li><b>où</b> : la zone, le PNJ ou un point sur la carte (une capture d'écran aide beaucoup) ;</li>
+      <li><b>comment</b> : dialogue, quête, monstre, objet à examiner.</li>
+    </ul>
+    Dans Vell, par la page <b>Signaler</b>, ou en réponse sur le forum. Pour un journal « guide attendu » : comment il
+    s'ouvre, les quêtes dans l'ordre (qui, où, quoi faire) et quand tombe chaque connaissance.
+  </div>
+
+  <div class="outils">
+    <label for="q" class="sur" style="position:absolute;left:-9999px">Chercher</label>
+    <input id="q" class="recherche" type="search" placeholder="Chercher une connaissance, un PNJ, un lieu, une rubrique…" autocomplete="off">
+    <div class="puces" id="etats" role="group" aria-label="État"></div>
+    <div class="puces" id="sections" role="group" aria-label="Section"></div>
+  </div>
+  <p class="resume" id="resume" role="status" aria-live="polite">Chargement de la liste…</p>
+  <div id="liste"></div>
+  <p class="pied" id="pied"></p>
+</div>
+
+<script>
+const ETATS = {c: "À confirmer", t: "À trouver", g: "Guide attendu"};
+const AIDE_ETAT = {c: "Vell connaît un lieu : il reste à confirmer que la connaissance y tombe",
+                   t: "On ne sait pas encore où ni comment l'obtenir",
+                   g: "Journal d'aventure retiré du parcours en attendant un guide complet"};
+const ORDRE = ["Personnage", "Topographie", "Mer", "Écosystème", "Journal d'aventure", "Savoirs"];
+const filtre = {etat: "", section: "", q: ""};
+let BASE = [];
+
+const esc = s => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const sans = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const nb = n => n.toLocaleString("fr-FR").replace(/\s/g, " ");
+
+function surligne(texte, mots) {
+  let html = esc(texte);
+  if (!mots.length) return html;
+  const brut = sans(texte);
+  const marques = [];
+  for (const m of mots) {
+    let i = brut.indexOf(m);
+    while (i >= 0) { marques.push([i, i + m.length]); i = brut.indexOf(m, i + m.length); }
+  }
+  if (!marques.length) return html;
+  marques.sort((a, b) => a[0] - b[0]);
+  let out = "", pos = 0;
+  for (const [a, b] of marques) {
+    if (a < pos) continue;
+    out += esc(texte.slice(pos, a)) + "<mark>" + esc(texte.slice(a, b)) + "</mark>";
+    pos = b;
+  }
+  return out + esc(texte.slice(pos));
+}
+
+function correspond(r, mots) {
+  if (!mots.length) return true;
+  const tout = r._cherche || (r._cherche = sans([r.n, r.r.join(" "), r.l || "", r.h || "", r.j || ""].join(" ")));
+  return mots.every(m => tout.includes(m));
+}
+
+function puce(groupe, valeur, texte, n, marque) {
+  const actif = filtre[groupe] === valeur;
+  return `<button type="button" class="puce" data-groupe="${groupe}" data-valeur="${esc(valeur)}" aria-pressed="${actif}">`
+    + (marque ? `<span class="marque ${marque}"></span>` : "") + `${esc(texte)} <span class="n">${nb(n)}</span></button>`;
+}
+
+function rendre() {
+  const mots = sans(filtre.q).split(/\s+/).filter(Boolean);
+  const visibles = BASE.filter(r => correspond(r, mots));
+  // compteurs des puces : ce que donnerait chaque choix, les autres filtres gardés
+  const parEtat = {"": 0, c: 0, t: 0, g: 0}, parSection = {"": 0};
+  for (const r of visibles) {
+    if (!filtre.section || r.r[0] === filtre.section) { parEtat[""]++; parEtat[r.s]++; }
+    if (!filtre.etat || r.s === filtre.etat) { parSection[""]++; parSection[r.r[0]] = (parSection[r.r[0]] || 0) + 1; }
+  }
+  document.getElementById("etats").innerHTML = puce("etat", "", "Tout", parEtat[""])
+    + Object.keys(ETATS).map(k => puce("etat", k, ETATS[k], parEtat[k], k)).join("");
+  const sections = [...ORDRE, ...Object.keys(parSection).filter(s => s && !ORDRE.includes(s))];
+  document.getElementById("sections").innerHTML = puce("section", "", "Toutes les rubriques", parSection[""])
+    + sections.filter(s => parSection[s]).map(s => puce("section", s, s, parSection[s])).join("");
+
+  const garde = visibles.filter(r => (!filtre.etat || r.s === filtre.etat) && (!filtre.section || r.r[0] === filtre.section));
+  document.getElementById("resume").textContent = garde.length
+    ? `${nb(garde.length)} connaissance${garde.length > 1 ? "s" : ""}` + (mots.length || filtre.etat || filtre.section ? " pour ces critères" : " à compléter")
+    : "";
+  if (!garde.length) {
+    document.getElementById("liste").innerHTML = `<p class="vide">Aucune connaissance de la liste ne correspond. Bonne nouvelle si c'est celle que vous cherchiez : Vell la guide déjà.</p>`;
+    return;
+  }
+  const groupes = new Map();
+  for (const r of garde) {
+    const sec = r.r[0], cat = r.r[1] || r.r[0];
+    if (!groupes.has(sec)) groupes.set(sec, new Map());
+    const g = groupes.get(sec);
+    if (!g.has(cat)) g.set(cat, []);
+    g.get(cat).push(r);
+  }
+  const ouvert = mots.length > 0 || garde.length <= 80;
+  let html = "";
+  for (const sec of sections) {
+    const cats = groupes.get(sec);
+    if (!cats) continue;
+    const total = [...cats.values()].reduce((a, l) => a + l.length, 0);
+    html += `<section class="section"><h2>${esc(sec)} <span>${nb(total)}</span></h2>`;
+    const triees = [...cats.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "fr"));
+    for (const [cat, liste] of triees) {
+      const n = {c: 0, t: 0, g: 0};
+      liste.forEach(r => n[r.s]++);
+      const compte = Object.keys(n).filter(k => n[k]).map(k => `<span title="${ETATS[k]}"><span class="marque ${k}"></span>${n[k]}</span>`).join("");
+      html += `<details class="cat"${ouvert ? " open" : ""}><summary><span class="cat-nom">${surligne(cat, mots)}</span><span class="compte">${compte}</span></summary><ul class="items">`;
+      for (const r of liste) {
+        const sous = r.r.slice(2).join(" › ");
+        html += `<li class="item ${r.s}"><div><span class="nom">${surligne(r.n, mots)}</span><span class="etat" title="${esc(AIDE_ETAT[r.s])}">${ETATS[r.s]}</span></div>`
+          + (sous ? `<div class="sous">${surligne(sous, mots)}</div>` : "")
+          + (r.l ? `<div class="lieu"><b>Lieu connu :</b> ${surligne(r.l, mots)}</div>` : "")
+          + (r.h ? `<div class="how">${surligne(r.h, mots)}</div>` : "")
+          + (r.j ? `<div class="jeu">Le jeu dit : ${surligne(r.j, mots)}</div>` : "")
+          + `</li>`;
+      }
+      html += `</ul></details>`;
+    }
+    html += `</section>`;
+  }
+  document.getElementById("liste").innerHTML = html;
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest(".puce");
+  if (!b) return;
+  filtre[b.dataset.groupe] = b.dataset.valeur;
+  rendre();
+});
+let attente;
+document.getElementById("q").addEventListener("input", e => {
+  clearTimeout(attente);
+  attente = setTimeout(() => { filtre.q = e.target.value; rendre(); }, 150);
+});
+
+document.getElementById("logo").src = "logo.png";
+fetch("connaissances.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
+  BASE = d;
+  const date = document.querySelector('meta[name="vell-date"]');
+  document.getElementById("pied").innerHTML = `Liste du ${esc(date ? date.content : "")}, mise à jour avec Vell. `
+    + `Télécharger Vell : <a href="https://github.com/vellbdo/vell/releases/latest/download/Vell-Setup.exe">Vell-Setup.exe</a>`;
+  rendre();
+}).catch(() => {
+  document.getElementById("resume").textContent = "La liste n'a pas pu se charger. Recharge la page dans un instant.";
+});
+</script>
+
+</body>
+</html>
