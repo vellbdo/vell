@@ -1,12 +1,20 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795268027,
- "commit": "7bfb2668",
+ "numero": 1795275224,
+ "commit": "3ff3471f",
  "date": "2026-11-21",
  "socle": "73153f0f9d9319f0",
- "notes": "Première version installable de Vell : tout compris, mises à jour automatiques.",
- "maj": [],
+ "notes": "Icône de Vell dans la barre des tâches.",
+ "maj": [
+  {
+   "depuis": 1795268027,
+   "numero": 1795275224,
+   "fichier": "paquets/vell-maj-1795275224.zip",
+   "sha256": "e86abde77d7be5f24fb250ad0b8a42af8ba671da52f548329bcf39d23a20bcf6",
+   "taille": 2639314
+  }
+ ],
  "installateur": {
   "url": "https://github.com/vellbdo/vell/releases/latest/download/Vell-Setup.exe",
   "sha256": "89076178751cc58a9e092f523c87b5636074e9f6b79d19aef5b290a2ad6c759c",
