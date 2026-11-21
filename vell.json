@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795278188,
- "commit": "f87bbd6c",
+ "numero": 1795280045,
+ "commit": "5669653b",
  "date": "2026-11-21",
  "socle": "73153f0f9d9319f0",
- "notes": "Consignes des gérants de nœud corrigées.",
+ "notes": "Parcours plus clair (sans mises de côté ni durée), « Jamais lues en jeu » dans le Répertoire, conseils repliables à l'Accueil, capture du jeu jointe aux signalements.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -20,6 +20,13 @@
    "fichier": "paquets/vell-maj-1795278188.zip",
    "sha256": "8e6aa680ae91ff4155398f31ba76430ddfdf1bc55c0afa805ec1b079aadc7255",
    "taille": 2468721
+  },
+  {
+   "depuis": 1795278188,
+   "numero": 1795280045,
+   "fichier": "paquets/vell-maj-1795280045.zip",
+   "sha256": "25cd3cb85e8c9dc4db5835289179c78bb3eb81decb0d795cdaf70a1b19513a5e",
+   "taille": 201370
   }
  ],
  "installateur": {
