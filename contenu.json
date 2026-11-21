@@ -3193,7 +3193,7 @@
 "bdo_companion/modules/energie/data/guides/yeux_aventure.en.json": "8ab2ab82cf78dae22e4543d303dabf3c0843a1a3fbfd908a8d964a7063740837",
 "bdo_companion/modules/energie/data/guides/yeux_aventure.json": "ea35e951d89c87720e1b96c8c4c5399048e8d4f2feb0fb565478f0f83795be8d",
 "bdo_companion/modules/energie/data/journals_fr.json.gz": "4af4e2adeaf84de6798ddf172c378ce214c3ad7d5e0458508b20bf623b44bc9f",
-"bdo_companion/modules/energie/data/knowledge_fr.json.gz": "5717cbbffa5b3b1ef27ba93ed1a8561186dac45397f57bb73335d344c5692b8d",
+"bdo_companion/modules/energie/data/knowledge_fr.json.gz": "182fb10d6a10332652fa4d816ed3539fa4bb1c65e409941ff772668da8c829ba",
 "bdo_companion/modules/energie/data/knowledge_icons/collected_conversationalist.webp": "6568c1fac55e38dce2192f3278fa57adaef6e10926027911b71a2bc8fb08ab0b",
 "bdo_companion/modules/energie/data/knowledge_icons/collected_ecology.webp": "23926533a795448e25758a39ee007fed0f66df0c953b5d942375d8f65c28c78c",
 "bdo_companion/modules/energie/data/knowledge_icons/collected_person.webp": "65997ab39c01e3b2753aa50984f082e325678acb0af21e26f8890f3caeff8ae6",
@@ -8200,7 +8200,7 @@
 "bdo_companion/modules/energie/parcours_tab.pyc": "009cf5f2d56f619089ad0bc65ad54c480d5d19f41018df8d6fbb285445f47b80",
 "bdo_companion/modules/energie/place_status.pyc": "e7bd4729d898a1dc6ef5a88fe7365ba03a5d9f06e50f04b8524daf4f7791861e",
 "bdo_companion/modules/energie/planificateur.pyc": "a1715959ef752ce263db69b6061ea3ab039f3a22dfa696c7ca91a3ab5628e58e",
-"bdo_companion/modules/energie/provenance.pyc": "29729fb79d7fb07b54f26cd69919dd8e8e9f818a4e7deb8cce182e84759d2934",
+"bdo_companion/modules/energie/provenance.pyc": "692b7a0b326294355261c646b38c80b062f6618601779bf03d54cf3e3fe68b08",
 "bdo_companion/modules/energie/public.pyc": "15bcafa8fffe3a0d0c018c4c53ca44d832edce64a07db141a9460f17b17e700b",
 "bdo_companion/modules/energie/questrewards.pyc": "ee8639dae2f306ebe8ff4c7c912d0d181cf344a1e45d853c9a08938c7a091b37",
 "bdo_companion/modules/energie/quetes_principales.pyc": "1c6f375233f87736a85fb917bb47f459991f9c75fbcfbe4652f9d5c2fccc6c0a",
@@ -12316,6 +12316,6 @@
 "bdo_companion/ui/widgets.pyc": "43d46f6335a53352c6daabd268648b598d4f3ed98094d7208a9f86fd288dad1a",
 "bdo_companion/ui/worker_icons.pyc": "529fb5cc006a643c517c1a3d7e1704a8d39c460eac5e56daf5317fc75a060368",
 "bdo_companion/ui/worldmap.pyc": "a00d9aaf543f508a01569a5a2d5fbe4489630391734fb46694e52b4d06126b55",
-"version.json": "48c0194aef03b9fee83a9c24ccac5d8ca51cf9d5e54cc5a2ff3266acc90119ff",
-"version.txt": "f7190bb6f63a335bf061a4965efa372ec7045964fa22671f42c32b883668010a"
+"version.json": "9d5afdc47105682881704b48fc2c0a6e0bf1e7615e27cb46590329a04be22710",
+"version.txt": "cb76d1f123bc7adae7e8f5b1cdb57cf1b8f056d7258be1b741f2359747e980cc"
 }

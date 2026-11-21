@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795280045,
- "commit": "5669653b",
+ "numero": 1795300219,
+ "commit": "1065633f",
  "date": "2026-11-21",
  "socle": "73153f0f9d9319f0",
- "notes": "Parcours plus clair (sans mises de côté ni durée), « Jamais lues en jeu » dans le Répertoire, conseils repliables à l'Accueil, capture du jeu jointe aux signalements.",
+ "notes": "37 livres de la Sainte faculté de Calpheon guidés avec un lieu sûr.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -27,6 +27,13 @@
    "fichier": "paquets/vell-maj-1795280045.zip",
    "sha256": "25cd3cb85e8c9dc4db5835289179c78bb3eb81decb0d795cdaf70a1b19513a5e",
    "taille": 201370
+  },
+  {
+   "depuis": 1795280045,
+   "numero": 1795300219,
+   "fichier": "paquets/vell-maj-1795300219.zip",
+   "sha256": "1a8ec205090afe2e2eb1ec26b0f25eabc31e3df6f52ac91ab9fde866f911df53",
+   "taille": 2428381
   }
  ],
  "installateur": {
