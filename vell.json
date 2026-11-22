@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795364415,
- "commit": "634b73c8",
+ "numero": 1795370573,
+ "commit": "c4724032",
  "date": "2026-11-22",
  "socle": "73153f0f9d9319f0",
- "notes": "Amitié : les connaissances à obtenir auprès d'un même PNJ ne font plus qu'une étape, de celle qui demande le moins d'amitié à celle qui en demande le plus, avec une case à cocher pour chacune.",
+ "notes": "Signaler : le bouton « Ouvrir le forum de Vell » est de retour, et Vell dit où déposer ton fichier : sur le Discord de Vell (salon retours-bêta) ou sur le forum.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -55,6 +55,13 @@
    "fichier": "paquets/vell-maj-1795364415.zip",
    "sha256": "d24c8c44f732472b235bfbe090ea2b148c77b3be7e431b89e10b788156641827",
    "taille": 75638
+  },
+  {
+   "depuis": 1795364415,
+   "numero": 1795370573,
+   "fichier": "paquets/vell-maj-1795370573.zip",
+   "sha256": "6481fa0a3b71a09a381c35749387166b990feec81540237551699c3d243bfd1a",
+   "taille": 19164
   }
  ],
  "installateur": {
