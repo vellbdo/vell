@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795357569,
- "commit": "f7330808",
+ "numero": 1795360420,
+ "commit": "1e43df2f",
  "date": "2026-11-22",
  "socle": "73153f0f9d9319f0",
- "notes": "Zones de chasse : une seule étape par zone, et les monstres d'une même catégorie réunis dans la même zone (plus besoin de la Lampe de Dehkia).\nFenêtre en jeu : la liste à cocher ne se chevauche plus, et dit quand il les faut toutes.\nCarte : mêmes numéros d'étape que la liste.",
+ "notes": "Parcours : les étapes de quête dont le lieu n'était pas sûr sortent du parcours (Journal d'aventure, et les connaissances de personnage obtenues par une quête). Elles restent dans le Répertoire, en attente d'un guide.\nÉcosystème, Topographie, Mer et Savoirs ne changent pas.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -41,6 +41,13 @@
    "fichier": "paquets/vell-maj-1795357569.zip",
    "sha256": "759e4d1a8fda0365807b3bdde785477fad9cbdb8de0378467a50e2bd659c0f04",
    "taille": 141270
+  },
+  {
+   "depuis": 1795357569,
+   "numero": 1795360420,
+   "fichier": "paquets/vell-maj-1795360420.zip",
+   "sha256": "134b68b0c57f7ab1589a584921adbd1468d22123d5a817276a7680f382c255f7",
+   "taille": 5066
   }
  ],
  "installateur": {
