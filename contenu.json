@@ -8242,15 +8242,16 @@
 "bdo_companion/modules/metiers/page.pyc": "bcb5e69c187d058892d00e042d4436a6a145589b674723b651546c6b11d6e591",
 "bdo_companion/modules/metiers/recipes.pyc": "54d4c1c4cea1cd63cef8208abe0f99e19b43cc7cc48a42c4c3fbcfefdd7fb8a3",
 "bdo_companion/modules/objectifs/__init__.pyc": "593181da05060e25037c6bf6a5352ae2693192da2bca5b9e6358dfdf22e34faa",
+"bdo_companion/modules/objectifs/amitie.pyc": "f7f1fbf65ac9e7e7262ca36179048c5cdff37b92e24335175b2df5f3a2b9b43b",
 "bdo_companion/modules/objectifs/chasse.pyc": "857f4c8536dae6e5ef052ab5f20cc26058c7350dc734b45dcd04a7843aea6a79",
 "bdo_companion/modules/objectifs/data/regions_fr.json.gz": "b9846adfba87a5d4f9775453d6100295a4a4ecc9af1459c1f3c61aed44a44efd",
 "bdo_companion/modules/objectifs/data/roads.npz": "a7d6422565b77a5d115dfd2197d001e3996f778a237627e747d7b47db7cd28c0",
 "bdo_companion/modules/objectifs/hotkeys.pyc": "1ae48249d8a245bfbe61975561e71da053d14709e1fa0c8848fda72ee74a8e39",
-"bdo_companion/modules/objectifs/logic.pyc": "be7d26581f9861f6b4d04e2eb39bb6d1de0c9e4fe0e35a27c92b6d0bebe246f5",
+"bdo_companion/modules/objectifs/logic.pyc": "c4b74977b49a093681c941050a146159ad21f734810606e87674f19c00010361",
 "bdo_companion/modules/objectifs/map_view.pyc": "34ddc240ca825a4b2f69b381749db03a9f1641fec34cfa28411aa03f254c6a92",
 "bdo_companion/modules/objectifs/minimap_path.pyc": "d5b279972b884f11e8dd54bf656f30e5ff06234c0a6ac70516e8d6deb023c420",
-"bdo_companion/modules/objectifs/overlay.pyc": "55aab3dcd16be6ec86aa4071aa8e8b269bdbfea80e6962d88373627199b0c5c1",
-"bdo_companion/modules/objectifs/page.pyc": "db7eda7f90cf7bea2ef1e97e7e502e59de83a652cd91ec2e46f2887b3528e1a7",
+"bdo_companion/modules/objectifs/overlay.pyc": "3a1a57cb53c2199c03f4c44a9aba446eb5fc00db01314c6bc8a7499284cd4b1c",
+"bdo_companion/modules/objectifs/page.pyc": "0f8a10178bdc28b9325a8073757ba1b74ff39f78442e9fc644f255b7435a3fd7",
 "bdo_companion/modules/objectifs/position.pyc": "94b5280ab4039e62fe20104ddb34a041f1d565f69316b392f9d3f01e823abadb",
 "bdo_companion/modules/objectifs/roads.pyc": "c712365fa624df06573d29b86e8b989b8f98b7d06f027c4964f0c8dc93e35312",
 "bdo_companion/modules/objectifs/route.pyc": "5f8fed922d5f69d8398d07ea0042ee21b482c42702949faae23c375a5b0ad098",
@@ -12317,6 +12318,6 @@
 "bdo_companion/ui/widgets.pyc": "43d46f6335a53352c6daabd268648b598d4f3ed98094d7208a9f86fd288dad1a",
 "bdo_companion/ui/worker_icons.pyc": "529fb5cc006a643c517c1a3d7e1704a8d39c460eac5e56daf5317fc75a060368",
 "bdo_companion/ui/worldmap.pyc": "a00d9aaf543f508a01569a5a2d5fbe4489630391734fb46694e52b4d06126b55",
-"version.json": "15bfe0b2e62e045b9342e5ae393be43fe7d15bdedf199b06cb8b4916d5cf18dd",
-"version.txt": "df8a3b8054fc45b05dc7ea179bf32ef64927fa874912a62f6a0d6e20b6cfb801"
+"version.json": "678176eab24c72e91661a135044e4795967c9341d93d802a2c1fa9812291f2dc",
+"version.txt": "ce930d5e15303a0f106660eb09e97c23a6010a23530f707d3d293c9a4b9938e1"
 }

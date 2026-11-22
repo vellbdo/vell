@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795360420,
- "commit": "1e43df2f",
+ "numero": 1795364415,
+ "commit": "634b73c8",
  "date": "2026-11-22",
  "socle": "73153f0f9d9319f0",
- "notes": "Parcours : les étapes de quête dont le lieu n'était pas sûr sortent du parcours (Journal d'aventure, et les connaissances de personnage obtenues par une quête). Elles restent dans le Répertoire, en attente d'un guide.\nÉcosystème, Topographie, Mer et Savoirs ne changent pas.",
+ "notes": "Amitié : les connaissances à obtenir auprès d'un même PNJ ne font plus qu'une étape, de celle qui demande le moins d'amitié à celle qui en demande le plus, avec une case à cocher pour chacune.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -48,6 +48,13 @@
    "fichier": "paquets/vell-maj-1795360420.zip",
    "sha256": "134b68b0c57f7ab1589a584921adbd1468d22123d5a817276a7680f382c255f7",
    "taille": 5066
+  },
+  {
+   "depuis": 1795360420,
+   "numero": 1795364415,
+   "fichier": "paquets/vell-maj-1795364415.zip",
+   "sha256": "d24c8c44f732472b235bfbe090ea2b148c77b3be7e431b89e10b788156641827",
+   "taille": 75638
   }
  ],
  "installateur": {
