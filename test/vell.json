@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795715626,
- "commit": "b422888b",
+ "numero": 1795729923,
+ "commit": "94c7b0f4",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Fenêtre en jeu : listes de quêtes découpées, détails plus complets, guides chargés à l'avance ; plus de lieux sur la carte.",
+ "notes": "Guides : lieux de créatures confirmés et complétés.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -76,6 +76,13 @@
    "fichier": "test/paquets/vell-maj-1795715626.zip",
    "sha256": "a194b076f27ff6c7013923b66509dfac9deaadcb61afbf2ec5ff2da040e5fac3",
    "taille": 277587
+  },
+  {
+   "depuis": 1795715626,
+   "numero": 1795729923,
+   "fichier": "test/paquets/vell-maj-1795729923.zip",
+   "sha256": "5ce2b2b69859646202eceb792c59f440584ce3dc3a6192917f1dedef90670b42",
+   "taille": 214856
   }
  ],
  "installateur": {
