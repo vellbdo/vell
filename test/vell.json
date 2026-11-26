@@ -1,0 +1,24 @@
+{
+ "format": 2,
+ "version": "0.5",
+ "numero": 1795686382,
+ "commit": "41175a1c",
+ "date": "2026-11-26",
+ "socle": "73153f0f9d9319f0",
+ "notes": "Version de travail (canal test) : préférences du parcours (terre / mer, port d'attache, amitié, puits de Magnus), étapes « Embarquement » et « Retour au port », donjons d'Atoraxion, Signaler simplifié, canal des mises à jour.",
+ "maj": [
+  {
+   "depuis": 1795370573,
+   "numero": 1795686382,
+   "fichier": "test/paquets/vell-maj-1795686382.zip",
+   "sha256": "aa3b0c064cd1250faae1bb5361726b015e81fb364705c404150cc8ac200fd508",
+   "taille": 244391
+  }
+ ],
+ "installateur": {
+  "url": "https://github.com/vellbdo/vell/releases/latest/download/Vell-Setup.exe",
+  "sha256": "89076178751cc58a9e092f523c87b5636074e9f6b79d19aef5b290a2ad6c759c",
+  "taille": 188080031,
+  "numero": 1795268027
+ }
+}
