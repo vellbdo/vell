@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795715052,
- "commit": "73f4c1c3",
+ "numero": 1795715626,
+ "commit": "b422888b",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Guides : 555 créatures situées par région, textes relus (énigme des signes, noms des chaînes, français).",
+ "notes": "Fenêtre en jeu : listes de quêtes découpées, détails plus complets, guides chargés à l'avance ; plus de lieux sur la carte.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -69,6 +69,13 @@
    "fichier": "test/paquets/vell-maj-1795715052.zip",
    "sha256": "b4c4a00038ebcd825e96189e1318ddd0b39ab619e3c94359668169dc774bd31b",
    "taille": 212263
+  },
+  {
+   "depuis": 1795715052,
+   "numero": 1795715626,
+   "fichier": "test/paquets/vell-maj-1795715626.zip",
+   "sha256": "a194b076f27ff6c7013923b66509dfac9deaadcb61afbf2ec5ff2da040e5fac3",
+   "taille": 277587
   }
  ],
  "installateur": {
