@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795712108,
- "commit": "12fca26b",
+ "numero": 1795713235,
+ "commit": "211a14ec",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Tracé de la minicarte : tient compte du relief, il ne fait plus escalader une colline pour rejoindre un PNJ.",
+ "notes": "Guides : nouvelles étapes pour des connaissances hors journaux (lieux, personnages, savoirs, créatures).",
  "maj": [
   {
    "depuis": 1795370573,
@@ -48,6 +48,13 @@
    "fichier": "test/paquets/vell-maj-1795712108.zip",
    "sha256": "e5cd99bb62f24a9a52d397ebe8770641aa7a7a195196447389ddd055f683afb0",
    "taille": 2898310
+  },
+  {
+   "depuis": 1795712108,
+   "numero": 1795713235,
+   "fichier": "test/paquets/vell-maj-1795713235.zip",
+   "sha256": "c0f998ad66e18544de7eb5b3483a70a16ae7a75a9d1e29b8fe631161891ab3e3",
+   "taille": 194768
   }
  ],
  "installateur": {
