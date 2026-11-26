@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795713235,
- "commit": "211a14ec",
+ "numero": 1795713561,
+ "commit": "32d121c4",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Guides : nouvelles étapes pour des connaissances hors journaux (lieux, personnages, savoirs, créatures).",
+ "notes": "Parcours : des destinations plus précises pour une vingtaine de connaissances (personnages, lieux, savoirs).",
  "maj": [
   {
    "depuis": 1795370573,
@@ -55,6 +55,13 @@
    "fichier": "test/paquets/vell-maj-1795713235.zip",
    "sha256": "c0f998ad66e18544de7eb5b3483a70a16ae7a75a9d1e29b8fe631161891ab3e3",
    "taille": 194768
+  },
+  {
+   "depuis": 1795713235,
+   "numero": 1795713561,
+   "fichier": "test/paquets/vell-maj-1795713561.zip",
+   "sha256": "b0663e26640d560d0e02a7a8a0f210e607e9ef8daeeab48848f78c1132cd3b10",
+   "taille": 15089
   }
  ],
  "installateur": {
