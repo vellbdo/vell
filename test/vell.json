@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795733817,
- "commit": "f1328968",
+ "numero": 1795735422,
+ "commit": "29afac47",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Parcours : grandes zones de chasse en une étape, désert à terre, étapes de journaux guidées de retour.",
+ "notes": "Parcours : îles en bateau, Terre du matin radieux par le puits de Magnus, mers de Margoria depuis le continent.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -97,6 +97,13 @@
    "fichier": "test/paquets/vell-maj-1795733817.zip",
    "sha256": "c2121b4bedad241155201b6209cf5736265b155fe0f907b9d8da8975c8f4fdc7",
    "taille": 164295
+  },
+  {
+   "depuis": 1795733817,
+   "numero": 1795735422,
+   "fichier": "test/paquets/vell-maj-1795735422.zip",
+   "sha256": "e4872efeec38620a9fde28f695b0304274b0848bd48f676b581bb2c7326e1f4c",
+   "taille": 110233
   }
  ],
  "installateur": {
