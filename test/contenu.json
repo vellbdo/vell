@@ -5134,7 +5134,7 @@
 "bdo_companion/modules/energie/data/knowledge_icons/unkown_intelligence.webp": "605c3a1e1d1322d684eb36d4687ddbb41061172b4f6f8a6232cf57b9ed160c3d",
 "bdo_companion/modules/energie/data/lieux_corriges.json": "a39bdd5b1959dba2f716e5af8c3c57b602ac6e37b864169c3ced0d62ff66cd54",
 "bdo_companion/modules/energie/data/lieux_point3.json": "1162c762ee80f141dae08cafc6ad9792e5703f4f4d42614d82048e7d6f6e5f1e",
-"bdo_companion/modules/energie/data/mini_etapes.json": "3af9fc564abc798cf5c2ae75ad7774c9ef8bb3e9bbe8e8d3cd5f4aa1d0fbc074",
+"bdo_companion/modules/energie/data/mini_etapes.json": "b803c563da8aa841d5dff0c1cb50d2fd9bd5bcd5450a9d43b610b014ff001123",
 "bdo_companion/modules/energie/data/noms_dialogues.json": "997cb647cdc5e80fc949487e59d8b97cfe921bdd9464437b8a70b1429da185eb",
 "bdo_companion/modules/energie/data/npc_amity.json": "cd3f8c8662e7749878c013ce511fd412cdda0362e92c3a727bca6b36fc0108c0",
 "bdo_companion/modules/energie/data/quetes_alternatives.json": "691aef8e4b73277602b55f232062b8d582b698eb4f7170e4bf8aae000c935659",
@@ -5191,10 +5191,10 @@
 "bdo_companion/modules/objectifs/logic.pyc": "115eaa3a752fa2dfa12812aebccd713c8d84c3cf533c89225b8abd7c909405b7",
 "bdo_companion/modules/objectifs/map_view.pyc": "65d39682318bb236d5a332ed25fe954fe08c5744f53446e4ffcc362967322762",
 "bdo_companion/modules/objectifs/minimap_path.pyc": "d5b279972b884f11e8dd54bf656f30e5ff06234c0a6ac70516e8d6deb023c420",
-"bdo_companion/modules/objectifs/overlay.pyc": "ed878cfb82d3f79e495803092f748b64fd04ab0d74758de2ed1400a96eebce40",
+"bdo_companion/modules/objectifs/overlay.pyc": "01c3701a9f2381178c9cf2abae4a5f9857e39aceca950127b10d2a1e171b83d9",
 "bdo_companion/modules/objectifs/page.pyc": "4724361ece46e1020ff8d7d2b60295e5cbabf6d788c695ce42513c8fc607b3d0",
 "bdo_companion/modules/objectifs/position.pyc": "f18464b79353fbf3b6493421401cc8b0ec9961beaee6a3bf86b9b9c215d31a52",
-"bdo_companion/modules/objectifs/roads.pyc": "c712365fa624df06573d29b86e8b989b8f98b7d06f027c4964f0c8dc93e35312",
+"bdo_companion/modules/objectifs/roads.pyc": "2699e97127375ae76721f3badecf2dbcb5908d0c6b14a438b7c10456cfc95610",
 "bdo_companion/modules/objectifs/route.pyc": "f2b86f5d61072945b384b0db1a014e1e920e94e1349f7eda5efe1e20fb562bd9",
 "bdo_companion/modules/signaler/__init__.pyc": "c0003d94aef364492b66e2ae881cd646c4e58b3dfdece10e7287582c071dd33a",
 "bdo_companion/modules/signaler/logic.pyc": "40b8b9f32a868616419627d3bfc49cae8aca67618a1180ac549997a063ff2ff3",
@@ -9163,6 +9163,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "47e6f08693a659db14f9f2d421bfc1c108f1bc69fff8a406e8282ad7f8ab38e1",
-"version.txt": "77ce814b0904d289d848dd0f41036712d5738fa0e49afe28afd13950533df78a"
+"version.json": "82bbc30f670eabd7641b2d10e40a12b8bbaf5c65b07e2eee52568f9436e50a45",
+"version.txt": "8395fc52285c3d293c4e432d077c17ed835817ce6dfd56e40d6d00a4382f7b32"
 }
