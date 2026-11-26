@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795705983,
- "commit": "09d23268",
+ "numero": 1795709790,
+ "commit": "f85afed6",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Vell ne fait plus que les connaissances : Mon empire, Encyclopédie, Métiers, Grind et Cristaux retirés.",
+ "notes": "Fenêtre en jeu : le tracé suit de nouveau le joueur après ◀ ou « Recalculer ».",
  "maj": [
   {
    "depuis": 1795370573,
@@ -27,6 +27,13 @@
    "fichier": "test/paquets/vell-maj-1795705983.zip",
    "sha256": "1178ab1e6188a2deaccf61c783ea6c7c2a70efb2ee49cfb91b99a4f4ee203fd9",
    "taille": 32071688
+  },
+  {
+   "depuis": 1795705983,
+   "numero": 1795709790,
+   "fichier": "test/paquets/vell-maj-1795709790.zip",
+   "sha256": "e328afbc9ee71a8e1ab6918f9d132923bba6dc8427301f693584015857b42cf9",
+   "taille": 41147
   }
  ],
  "installateur": {

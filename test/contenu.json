@@ -5191,7 +5191,7 @@
 "bdo_companion/modules/objectifs/logic.pyc": "115eaa3a752fa2dfa12812aebccd713c8d84c3cf533c89225b8abd7c909405b7",
 "bdo_companion/modules/objectifs/map_view.pyc": "65d39682318bb236d5a332ed25fe954fe08c5744f53446e4ffcc362967322762",
 "bdo_companion/modules/objectifs/minimap_path.pyc": "d5b279972b884f11e8dd54bf656f30e5ff06234c0a6ac70516e8d6deb023c420",
-"bdo_companion/modules/objectifs/overlay.pyc": "1642c958df36bbc0b651128c9e49e97456915bc739069d8e9b3bde5d7acf024c",
+"bdo_companion/modules/objectifs/overlay.pyc": "ed878cfb82d3f79e495803092f748b64fd04ab0d74758de2ed1400a96eebce40",
 "bdo_companion/modules/objectifs/page.pyc": "4724361ece46e1020ff8d7d2b60295e5cbabf6d788c695ce42513c8fc607b3d0",
 "bdo_companion/modules/objectifs/position.pyc": "f18464b79353fbf3b6493421401cc8b0ec9961beaee6a3bf86b9b9c215d31a52",
 "bdo_companion/modules/objectifs/roads.pyc": "c712365fa624df06573d29b86e8b989b8f98b7d06f027c4964f0c8dc93e35312",
@@ -9163,6 +9163,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "df81830b9a1f29217f6341246564c5e78389ba1a9635bdf6ca060a71f3df2ddc",
-"version.txt": "be38360b9d500796147d33210b9443c38768531b14a1d28e6cbbab8d1a06409f"
+"version.json": "47e6f08693a659db14f9f2d421bfc1c108f1bc69fff8a406e8282ad7f8ab38e1",
+"version.txt": "77ce814b0904d289d848dd0f41036712d5738fa0e49afe28afd13950533df78a"
 }
