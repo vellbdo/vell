@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795730473,
- "commit": "062f0d6c",
+ "numero": 1795733817,
+ "commit": "f1328968",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Guides : textes plus clairs (séries de quêtes, niveaux inutiles retirés).",
+ "notes": "Parcours : grandes zones de chasse en une étape, désert à terre, étapes de journaux guidées de retour.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -90,6 +90,13 @@
    "fichier": "test/paquets/vell-maj-1795730473.zip",
    "sha256": "348210fe46458544d9668273c7c39eea53f15dfb07424faf58a5ab95f596acd7",
    "taille": 206642
+  },
+  {
+   "depuis": 1795730473,
+   "numero": 1795733817,
+   "fichier": "test/paquets/vell-maj-1795733817.zip",
+   "sha256": "c2121b4bedad241155201b6209cf5736265b155fe0f907b9d8da8975c8f4fdc7",
+   "taille": 164295
   }
  ],
  "installateur": {
