@@ -5135,7 +5135,7 @@
 "bdo_companion/modules/energie/data/knowledge_icons/unkown_intelligence.webp": "605c3a1e1d1322d684eb36d4687ddbb41061172b4f6f8a6232cf57b9ed160c3d",
 "bdo_companion/modules/energie/data/lieux_corriges.json": "a39bdd5b1959dba2f716e5af8c3c57b602ac6e37b864169c3ced0d62ff66cd54",
 "bdo_companion/modules/energie/data/lieux_point3.json": "1162c762ee80f141dae08cafc6ad9792e5703f4f4d42614d82048e7d6f6e5f1e",
-"bdo_companion/modules/energie/data/mini_etapes.json": "1f9593c7e315eec295ffd07034b5d5171d958352c0b6ccdd69b084b9b1f1ab6a",
+"bdo_companion/modules/energie/data/mini_etapes.json": "7f7b60a58ed9b018c1030da65fc6fae2b563e35b75490adeeab3e7aca76d4aba",
 "bdo_companion/modules/energie/data/noms_dialogues.json": "997cb647cdc5e80fc949487e59d8b97cfe921bdd9464437b8a70b1429da185eb",
 "bdo_companion/modules/energie/data/npc_amity.json": "cd3f8c8662e7749878c013ce511fd412cdda0362e92c3a727bca6b36fc0108c0",
 "bdo_companion/modules/energie/data/quetes_alternatives.json": "691aef8e4b73277602b55f232062b8d582b698eb4f7170e4bf8aae000c935659",
@@ -9165,6 +9165,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "c90c611bd16caf29c282ae18e9d59c6a75f6dac2549f4d82338d65f6078c2f74",
-"version.txt": "d416c03aab04dc8a4868147e2f63464e64b2bf954aa3faa9615cc4df3bcc2cd8"
+"version.json": "5091c682c6bd1c30a87965e73290ec2f42f152185c95479c3eccb72c22994744",
+"version.txt": "bcb822a2be286b08fd1af9da436953db6fc2ab17966b33cdc3d2a08976ce38e6"
 }
