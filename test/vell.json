@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795697446,
- "commit": "a3a306d9",
+ "numero": 1795705983,
+ "commit": "09d23268",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Mini-étapes des journaux en liste glissante dans la fenêtre en jeu ; plusieurs blocs bateau quand terre et mer s'attendent.",
+ "notes": "Vell ne fait plus que les connaissances : Mon empire, Encyclopédie, Métiers, Grind et Cristaux retirés.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -20,6 +20,13 @@
    "fichier": "test/paquets/vell-maj-1795697446.zip",
    "sha256": "5b216392d927ef9b47a39e136bc51e14f65aa3a523647d36c386abcd8b6dcde5",
    "taille": 310198
+  },
+  {
+   "depuis": 1795697446,
+   "numero": 1795705983,
+   "fichier": "test/paquets/vell-maj-1795705983.zip",
+   "sha256": "1178ab1e6188a2deaccf61c783ea6c7c2a70efb2ee49cfb91b99a4f4ee203fd9",
+   "taille": 32071688
   }
  ],
  "installateur": {
