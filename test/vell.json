@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795713561,
- "commit": "32d121c4",
+ "numero": 1795715052,
+ "commit": "73f4c1c3",
  "date": "2026-11-26",
  "socle": "73153f0f9d9319f0",
- "notes": "Parcours : des destinations plus précises pour une vingtaine de connaissances (personnages, lieux, savoirs).",
+ "notes": "Guides : 555 créatures situées par région, textes relus (énigme des signes, noms des chaînes, français).",
  "maj": [
   {
    "depuis": 1795370573,
@@ -62,6 +62,13 @@
    "fichier": "test/paquets/vell-maj-1795713561.zip",
    "sha256": "b0663e26640d560d0e02a7a8a0f210e607e9ef8daeeab48848f78c1132cd3b10",
    "taille": 15089
+  },
+  {
+   "depuis": 1795713561,
+   "numero": 1795715052,
+   "fichier": "test/paquets/vell-maj-1795715052.zip",
+   "sha256": "b4c4a00038ebcd825e96189e1318ddd0b39ab619e3c94359668169dc774bd31b",
+   "taille": 212263
   }
  ],
  "installateur": {
