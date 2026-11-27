@@ -1,11 +1,11 @@
 {
  "format": 2,
- "version": "0.5",
- "numero": 1795794067,
- "commit": "667a7c5c",
+ "version": "0.6",
+ "numero": 1795798116,
+ "commit": "eca79613",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Crabes caraparoches de Kamasylvia : lieu confirmé, plus de pastille rouge",
+ "notes": "Version 0.6, identique au live",
  "maj": [
   {
    "depuis": 1795370573,
@@ -160,6 +160,13 @@
    "fichier": "test/paquets/vell-maj-1795794067.zip",
    "sha256": "5f5352d593246c459f3164567cb0aee52c5a288ee4fec1a01d00fc196ea660d5",
    "taille": 30845
+  },
+  {
+   "depuis": 1795794067,
+   "numero": 1795798116,
+   "fichier": "test/paquets/vell-maj-1795798116.zip",
+   "sha256": "10a79675d686926a722ebaf2ef0ff07ef94fcfbaed7933cef8662b2403ce78a2",
+   "taille": 238743
   }
  ],
  "installateur": {
