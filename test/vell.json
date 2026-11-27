@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795773631,
- "commit": "538b23b9",
+ "numero": 1795774740,
+ "commit": "f2cbd81b",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Guide : le Petit Crabe caraparoche de Kamasylvia s'obtient en récoltant les petits crabes appelés par le gros.",
+ "notes": "Crabes caraparoches de Kamasylvia en une seule étape ; infobulles de la fenêtre en jeu à côté d'elle",
  "maj": [
   {
    "depuis": 1795370573,
@@ -146,6 +146,13 @@
    "fichier": "test/paquets/vell-maj-1795773631.zip",
    "sha256": "62c47769a295856a0e7efb2ee38e0648af61ebc240aa95379dc78ec874b2edfa",
    "taille": 206698
+  },
+  {
+   "depuis": 1795773631,
+   "numero": 1795774740,
+   "fichier": "test/paquets/vell-maj-1795774740.zip",
+   "sha256": "6a5bf351bcba0abf6f531c76a66bda6679d58136dcf81dfa8f9b65b488a00d9f",
+   "taille": 331852
   }
  ],
  "installateur": {
