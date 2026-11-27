@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795814373,
- "commit": "097714f1",
+ "numero": 1795815463,
+ "commit": "8515a1da",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Synchronisation : la fenêtre Connaissances est lue aussi avec une petite taille d'interface du jeu.",
+ "notes": "Position : la minicarte est lue avec une petite interface du jeu ; synchro : interface à 80 % au minimum.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -188,6 +188,13 @@
    "fichier": "test/paquets/vell-maj-1795814373.zip",
    "sha256": "57c76feeff09f17940b99f269752f9776b2a52e9df1667fd9f0d33d7a3cffbe6",
    "taille": 8943
+  },
+  {
+   "depuis": 1795814373,
+   "numero": 1795815463,
+   "fichier": "test/paquets/vell-maj-1795815463.zip",
+   "sha256": "615a8fc5994697f4a9e7a34e27795bc19d50d04fd695e97e4bf37603da58b32a",
+   "taille": 43888
   }
  ],
  "installateur": {
