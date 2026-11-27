@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795771082,
- "commit": "920e47f9",
+ "numero": 1795771950,
+ "commit": "030a9b5c",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Fenêtre en jeu : plus de fantôme, zones de chasse reconnues sur place ; Rocher de Puramis sans quête ; homonymes départagés.",
+ "notes": "Fenêtre en jeu : la faune sauvage (forêts, steppes) n'est plus présentée en zone de chasse.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -111,6 +111,13 @@
    "fichier": "test/paquets/vell-maj-1795771082.zip",
    "sha256": "b9d0f3f9923d0c7fcda50bbc949f53e679db17bb354c139bc6cb72472d8d41e9",
    "taille": 277521
+  },
+  {
+   "depuis": 1795771082,
+   "numero": 1795771950,
+   "fichier": "test/paquets/vell-maj-1795771950.zip",
+   "sha256": "ea50bc0ab87ae31cc62ac5db267330d4624758919d742c810d9a7d0236a898fa",
+   "taille": 6749
   }
  ],
  "installateur": {

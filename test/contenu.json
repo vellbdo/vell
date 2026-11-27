@@ -5186,7 +5186,7 @@
 "bdo_companion/modules/lecture/page.pyc": "7a7dd6fe211841c27ae6538f2ed00dbbb8684f7c4943bd664e0de8fcb00cf542",
 "bdo_companion/modules/objectifs/__init__.pyc": "8a87910f4201c4f5f6d73af6820283f7aa4d37c8563808ebd1d9b103c83f6477",
 "bdo_companion/modules/objectifs/amitie.pyc": "30ba92c559cdde43d2c54479afb9025c7cc36e448b0796f03df40c6a2a556750",
-"bdo_companion/modules/objectifs/chasse.pyc": "f2171b01f1ca07323e00f7aa153116839cbc15c7f782d7828d61ba4dbe27787a",
+"bdo_companion/modules/objectifs/chasse.pyc": "390424f205c448ed68e0917453deefdb9080f9ab87c2b3991585d625abd7a87e",
 "bdo_companion/modules/objectifs/data/regions_fr.json.gz": "b9846adfba87a5d4f9775453d6100295a4a4ecc9af1459c1f3c61aed44a44efd",
 "bdo_companion/modules/objectifs/data/roads.npz": "e791baf83025afcfb3597c78860eb205440a7c066fb123fc154c1e39e23aa273",
 "bdo_companion/modules/objectifs/hotkeys.pyc": "93e1efb9f420f441d62fcc6165b8fc662177195ad1ccb05ce3f174c7892c944f",
@@ -9166,6 +9166,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "509acb5a5a8e67e8c8dc18fe5416b5252c024b633d35224bacf0c04dd265d0a5",
-"version.txt": "58c6852825788099b7d4d60563ed31aa24b2a0b95fca849ea24ce96a6b7f1ff4"
+"version.json": "3b43dcc3c07bcf981925b142caf98a95a820423ae643d8b19829e89f3508e217",
+"version.txt": "3d83ad10e63be99f7f5b93a4fe28538c99881e076189667248dd59471c3bbdb5"
 }
