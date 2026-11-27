@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795816277,
- "commit": "deb7565a",
+ "numero": 1795816570,
+ "commit": "37fc9a39",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Position : « Lire ma position » cherche d'abord dans la région écrite au-dessus de la minicarte.",
+ "notes": "L'Accueil et « Vérifier les mises à jour » affichent l'heure exacte de la version installée.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -97,6 +97,13 @@
    "fichier": "paquets/vell-maj-1795816277.zip",
    "sha256": "b58ebbb840fc62fef9aeea4c7c8ef7e4f69b381f1aa2681f67b7b688e47f8b44",
    "taille": 9019
+  },
+  {
+   "depuis": 1795816277,
+   "numero": 1795816570,
+   "fichier": "paquets/vell-maj-1795816570.zip",
+   "sha256": "bfe3a36037b0902ad1a9522b52ec940e854644a327db1bdf9fecfb09de68b851",
+   "taille": 26703
   }
  ],
  "installateur": {
