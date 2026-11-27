@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795772286,
- "commit": "11944d33",
+ "numero": 1795772743,
+ "commit": "5ed00fc3",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Zone de chasse : la dernière case cochée passe à l'étape suivante.",
+ "notes": "Fenêtre en jeu : « Connaissance obtenue » sur une étape faite, plus de double après un Alt-Tab.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -125,6 +125,13 @@
    "fichier": "test/paquets/vell-maj-1795772286.zip",
    "sha256": "c84fe9af600f10c91674e9954f5eef802012c0ce5f4d7737620a7db35ebfe520",
    "taille": 67946
+  },
+  {
+   "depuis": 1795772286,
+   "numero": 1795772743,
+   "fichier": "test/paquets/vell-maj-1795772743.zip",
+   "sha256": "b4f80836467c0a1d1a7f7baaa10c97508a51fa9b2776173ac62f2f84879af24d",
+   "taille": 48826
   }
  ],
  "installateur": {
