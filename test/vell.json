@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795813503,
- "commit": "52176b17",
+ "numero": 1795814373,
+ "commit": "097714f1",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Synchro : le panneau dit pourquoi rien n'est lu, dont le français absent de Windows",
+ "notes": "Synchronisation : la fenêtre Connaissances est lue aussi avec une petite taille d'interface du jeu.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -181,6 +181,13 @@
    "fichier": "test/paquets/vell-maj-1795813503.zip",
    "sha256": "1431bbc447f62e7ddd97eefc42483b42c90a1f4f315c2d0b8485580496100e68",
    "taille": 38152
+  },
+  {
+   "depuis": 1795813503,
+   "numero": 1795814373,
+   "fichier": "test/paquets/vell-maj-1795814373.zip",
+   "sha256": "57c76feeff09f17940b99f269752f9776b2a52e9df1667fd9f0d33d7a3cffbe6",
+   "taille": 8943
   }
  ],
  "installateur": {
