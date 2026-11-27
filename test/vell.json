@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795815463,
- "commit": "8515a1da",
+ "numero": 1795816277,
+ "commit": "deb7565a",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Position : la minicarte est lue avec une petite interface du jeu ; synchro : interface à 80 % au minimum.",
+ "notes": "Position : « Lire ma position » cherche d'abord dans la région écrite au-dessus de la minicarte.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -195,6 +195,13 @@
    "fichier": "test/paquets/vell-maj-1795815463.zip",
    "sha256": "615a8fc5994697f4a9e7a34e27795bc19d50d04fd695e97e4bf37603da58b32a",
    "taille": 43888
+  },
+  {
+   "depuis": 1795815463,
+   "numero": 1795816277,
+   "fichier": "test/paquets/vell-maj-1795816277.zip",
+   "sha256": "54163c156a9849e7d470d91a50cbebc41beba851471b1762c5367906517dba64",
+   "taille": 9018
   }
  ],
  "installateur": {
