@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795813293,
- "commit": "f76f99a9",
+ "numero": 1795813503,
+ "commit": "52176b17",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Synchro : le panneau dit pourquoi rien n'est lu",
+ "notes": "Synchro : le panneau dit pourquoi rien n'est lu, dont le français absent de Windows",
  "maj": [
   {
    "depuis": 1795370573,
@@ -174,6 +174,13 @@
    "fichier": "test/paquets/vell-maj-1795813293.zip",
    "sha256": "46ab5fea57e49d4b7c6f2abf13d680c5402a64ce3486c1528570a72e2bee797b",
    "taille": 35712
+  },
+  {
+   "depuis": 1795813293,
+   "numero": 1795813503,
+   "fichier": "test/paquets/vell-maj-1795813503.zip",
+   "sha256": "1431bbc447f62e7ddd97eefc42483b42c90a1f4f315c2d0b8485580496100e68",
+   "taille": 38152
   }
  ],
  "installateur": {
