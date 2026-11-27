@@ -5183,7 +5183,7 @@
 "bdo_companion/modules/energie/voyage.pyc": "378834511b3b201943eb8c3171eae6b001b3145fcf4d2bb3ba9a074df6d12391",
 "bdo_companion/modules/energie/zones_chasse.pyc": "f2d69b6167f8f8ab2837416a3978dfe2b287711a82d3ca472878ea779d2fa252",
 "bdo_companion/modules/lecture/__init__.pyc": "8e3f352f0aaad1a5d3c6d136173ecc37560aa7d43196e288603164a1ffcbfcc2",
-"bdo_companion/modules/lecture/page.pyc": "7a7dd6fe211841c27ae6538f2ed00dbbb8684f7c4943bd664e0de8fcb00cf542",
+"bdo_companion/modules/lecture/page.pyc": "400bfe10385851c66be340081e8e8603228578002f9e96d9e929a6cb3e2df946",
 "bdo_companion/modules/objectifs/__init__.pyc": "8a87910f4201c4f5f6d73af6820283f7aa4d37c8563808ebd1d9b103c83f6477",
 "bdo_companion/modules/objectifs/amitie.pyc": "30ba92c559cdde43d2c54479afb9025c7cc36e448b0796f03df40c6a2a556750",
 "bdo_companion/modules/objectifs/chasse.pyc": "dd3ed5b9e5ac0d9ef5d472d3fc8da1c01fa1f94adf95e8259fb224466c30eb44",
@@ -9158,7 +9158,7 @@
 "bdo_companion/ui/panels.pyc": "d16a2b322482225729e84c13a2a7cd08b29299c34f25d082c61ce9689d1674e5",
 "bdo_companion/ui/single_instance.pyc": "d004d92ba245888460b3d477fa413c1c708d1b7b0aded9b56fd2294fcc0b7ed2",
 "bdo_companion/ui/sync_guide.pyc": "2880c22d128fa52875ce85428ad7fad476e5c7f3884252ed0ed14f7bc0c18b7b",
-"bdo_companion/ui/sync_panel.pyc": "e4433b96dbdf4f4d82c0091956d05a519b63e3a67bd66a07d25ada75d30ab8f6",
+"bdo_companion/ui/sync_panel.pyc": "350e245b4cc8db872e62360b770e3341a05937652f35909d76c3898f9bc50379",
 "bdo_companion/ui/table.pyc": "ffb256960966f615f614c218e0fb8d8616754c4ac7aa3040ada5c3c11c7fcf70",
 "bdo_companion/ui/table_style.pyc": "a727015e57e1a44209dc9c28cf9d3504174cf3a73e3e9bd59319d52fb36d4157",
 "bdo_companion/ui/theme.pyc": "10c935eb6653623e8e3d259d9d3c49d9b470c9209a7e16b2d4048c561e9aee92",
@@ -9166,6 +9166,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "204dc8fc3f6c926d144e2c11ac69be0b234ced301087ccda598c86f3624eb0d0",
-"version.txt": "bf7e9ec2ba87bb44c5edd9f2366b317df8ebdf4a4d8fdb04d168eeeabf380d3d"
+"version.json": "2f1a7625fa3b6a030ae17442d7fa74cc319241723cc51b040a1a6a815f933c89",
+"version.txt": "100db147faf497d42c76b348a0ba82fca54860e4b6492f585dda66bfdca9350b"
 }
