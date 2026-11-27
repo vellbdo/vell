@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795798116,
- "commit": "eca79613",
+ "numero": 1795813503,
+ "commit": "52176b17",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "**Journaux d'aventure**\nNouveau : un guide pas à pas pour tous les journaux d'aventure, soit 26 journaux, 218 chapitres et plus de 5 000 étapes.\nDans la fenêtre en jeu, chaque étape se découpe en mini-étapes : où aller, quelle quête prendre et à qui la rendre, quoi faire sur place, puis vérifier la connaissance.\nLes mini-étapes se cochent avec « Fait » : celles déjà faites se replient, les suivantes s'annoncent.\nLes catégories Écosystème, Personnage et Topographie ont aussi leur guide : zone de chasse, méthode, personnage à trouver.\nPrès de 400 connaissances à énergie gagnent un lieu dans le parcours, dont des étapes de journaux jusqu'ici mises de côté.\n**Parcours**\nNouvelles préférences de voyage : « Terre et mer », « Terre uniquement » ou « Mer uniquement ».\nNouveau choix du port d'attache : les étapes en mer partent de ce port et y reviennent, avec des étapes « Embarquement » et « Retour au port ».\nQuand la terre et la mer alternent, le parcours enchaîne plusieurs passages en bateau au lieu de tout regrouper.\nNouvelles options « Inclure les connaissances d'amitié » et « Utiliser les puits de Magnus » pour les longs trajets.\nTerre du matin radieux : on y entre et on en sort uniquement par le puits de Magnus.\nÎles : toute terre hors du continent et de la Terre du matin radieux (îles des Papus, Iliya…) se rejoint en bateau.\nDonjons d'Atoraxion : guidés jusqu'à leur entrée, l'Ancienne salle de pierre.\nLes connaissances qui s'obtiennent par une quête ou par une interaction sur place ne sont plus bloquées par un cadenas.\n**Zones de chasse**\nUne zone de chasse, même très grande et en plusieurs secteurs, compte pour une seule étape, avec la liste de ses monstres à cocher.\nLes créatures appelées pendant un même combat (crabes caraparoches de Kamasylvia) sont réunies en une étape, avec la méthode.\nOn est « dans la zone » dès qu'on approche un endroit connu de ses monstres.\nCocher la dernière case passe directement à l'étape suivante, même après avoir feuilleté les étapes avec ◄ / ►.\nLa faune sauvage (cerfs, renards, flamants…) garde son propre emplacement.\n**Fenêtre en jeu**\nTracé sur la minicarte plus fidèle : il part dans le sens de la marche, suit les embranchements et tient compte du relief.\nUne étape déjà faite affiche « Connaissance obtenue ».\nLes titres longs tiennent sur deux lignes sans masquer la catégorie.\nLes infobulles s'affichent à côté de la fenêtre, en entier.\n**Corrections**\nLe texte d'une autre étape ne reste plus en fond après ◄ / ►.\nLa fenêtre en jeu n'apparaît plus en double après un Alt-Tab.\n« Une étape est plus proche » ne renvoie plus vers une étape de voyage déjà passée.\nLe tracé de l'étape affichée n'est plus perdu après ◄ ou « Recalculer ».\nUne zone de chasse du désert n'est plus considérée comme en mer.\nDeux PNJ du même nom : Vell choisit celui de la bonne région (exemple : Rocher de Puramis).\nSignaler : le champ « Préciser (facultatif) » est retiré.",
+ "notes": "Synchronisation : le panneau dit pourquoi rien n'est lu (jeu non détecté ou en arrière-plan, plein écran, français absent de Windows, fenêtre Connaissances fermée).",
  "maj": [
   {
    "depuis": 1795268027,
@@ -69,6 +69,13 @@
    "fichier": "paquets/vell-maj-1795798116.zip",
    "sha256": "d4a572952f2fd1f1b53c61fb2742fd315a14116d5a11f4288453aacfe0f9626d",
    "taille": 35356017
+  },
+  {
+   "depuis": 1795798116,
+   "numero": 1795813503,
+   "fichier": "paquets/vell-maj-1795813503.zip",
+   "sha256": "8af9a7d44a9537e9c2d0cacc2e44f9626bebf4712d605bea3725637097d3daad",
+   "taille": 55347
   }
  ],
  "installateur": {
