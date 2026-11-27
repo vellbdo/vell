@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795816570,
- "commit": "37fc9a39",
+ "numero": 1795818995,
+ "commit": "c884df31",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "L'Accueil et « Vérifier les mises à jour » affichent l'heure exacte de la version installée.",
+ "notes": "Position : recherche large où que soit le joueur ; minicarte sans repère (désert) : départ de la région lue ; interface conseillée 90-100 %.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -104,6 +104,13 @@
    "fichier": "paquets/vell-maj-1795816570.zip",
    "sha256": "bfe3a36037b0902ad1a9522b52ec940e854644a327db1bdf9fecfb09de68b851",
    "taille": 26703
+  },
+  {
+   "depuis": 1795816570,
+   "numero": 1795818995,
+   "fichier": "paquets/vell-maj-1795818995.zip",
+   "sha256": "ffdfbebf7f5e7a841ce82418b3372d838724c272bae4cae228c8125c859fd20d",
+   "taille": 55847
   }
  ],
  "installateur": {
