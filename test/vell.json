@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795774740,
- "commit": "f2cbd81b",
+ "numero": 1795794067,
+ "commit": "667a7c5c",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Crabes caraparoches de Kamasylvia en une seule étape ; infobulles de la fenêtre en jeu à côté d'elle",
+ "notes": "Crabes caraparoches de Kamasylvia : lieu confirmé, plus de pastille rouge",
  "maj": [
   {
    "depuis": 1795370573,
@@ -153,6 +153,13 @@
    "fichier": "test/paquets/vell-maj-1795774740.zip",
    "sha256": "6a5bf351bcba0abf6f531c76a66bda6679d58136dcf81dfa8f9b65b488a00d9f",
    "taille": 331852
+  },
+  {
+   "depuis": 1795774740,
+   "numero": 1795794067,
+   "fichier": "test/paquets/vell-maj-1795794067.zip",
+   "sha256": "5f5352d593246c459f3164567cb0aee52c5a288ee4fec1a01d00fc196ea660d5",
+   "taille": 30845
   }
  ],
  "installateur": {
