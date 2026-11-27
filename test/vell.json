@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795735422,
- "commit": "29afac47",
- "date": "2026-11-26",
+ "numero": 1795771082,
+ "commit": "920e47f9",
+ "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Parcours : îles en bateau, Terre du matin radieux par le puits de Magnus, mers de Margoria depuis le continent.",
+ "notes": "Fenêtre en jeu : plus de fantôme, zones de chasse reconnues sur place ; Rocher de Puramis sans quête ; homonymes départagés.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -104,6 +104,13 @@
    "fichier": "test/paquets/vell-maj-1795735422.zip",
    "sha256": "e4872efeec38620a9fde28f695b0304274b0848bd48f676b581bb2c7326e1f4c",
    "taille": 110233
+  },
+  {
+   "depuis": 1795735422,
+   "numero": 1795771082,
+   "fichier": "test/paquets/vell-maj-1795771082.zip",
+   "sha256": "b9d0f3f9923d0c7fcda50bbc949f53e679db17bb354c139bc6cb72472d8d41e9",
+   "taille": 277521
   }
  ],
  "installateur": {
