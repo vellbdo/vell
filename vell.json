@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795813503,
- "commit": "52176b17",
+ "numero": 1795814373,
+ "commit": "097714f1",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Synchronisation : le panneau dit pourquoi rien n'est lu (jeu non détecté ou en arrière-plan, plein écran, français absent de Windows, fenêtre Connaissances fermée).",
+ "notes": "Synchronisation : la fenêtre Connaissances est lue aussi avec une petite taille d'interface du jeu.",
  "maj": [
   {
    "depuis": 1795268027,
@@ -76,6 +76,13 @@
    "fichier": "paquets/vell-maj-1795813503.zip",
    "sha256": "8af9a7d44a9537e9c2d0cacc2e44f9626bebf4712d605bea3725637097d3daad",
    "taille": 55347
+  },
+  {
+   "depuis": 1795813503,
+   "numero": 1795814373,
+   "fichier": "paquets/vell-maj-1795814373.zip",
+   "sha256": "c39cdf12ea290131f384ebc1622a6203978af5c4575282211d2a8688d6da752f",
+   "taille": 8944
   }
  ],
  "installateur": {

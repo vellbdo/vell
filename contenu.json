@@ -13,7 +13,7 @@
 "bdo_companion/capture/readers/characters.pyc": "05b2239aafe7238897186b4120ed360b636aec1bbb47a46bc5564dcca2ac66b6",
 "bdo_companion/capture/readers/current.pyc": "336fe60e100b525602f84fc8c12e4042b51454eb3a9f52553976518bf4295782",
 "bdo_companion/capture/readers/hud.pyc": "c12e2349a1bcd2f827a29a258151a3b3b865ee5b179d2513dd6e20ab7f1efa75",
-"bdo_companion/capture/readers/knowledge.pyc": "deab782c5321e174bf75bb48e3dc0e0f4ecafe6a07a33faf84734445595b1cc1",
+"bdo_companion/capture/readers/knowledge.pyc": "c78860007b08e188a1ac023761df2dbfcebd9d6dc73c6a4bd8dc0bff6bac27de",
 "bdo_companion/capture/readers/knowledge_lists.pyc": "3962f1949fded7a7b0ca071a1fd6a1a4ac3337a2df869bae275c89af1d0626b3",
 "bdo_companion/capture/readers/minimap.pyc": "ceb23b85ec3c968301d7c26552109ea494bcded1cc9afb0e26b846a457033bdc",
 "bdo_companion/capture/readers/myinfo.pyc": "bc845d0a38e16fdb99800f20c4694cd9feca24e5c97c52162c7e3f0d5ce94559",
@@ -9166,6 +9166,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "e3189c3de983c18fd932a16317521b0e3bbc35f5f32b711d4aa71faed63a1e5d",
-"version.txt": "51a33b1994ffb1687b0fd6bb416f620943d3a2ec6c5b65b0d795d04f9ef9505d"
+"version.json": "61279926fbace4d23fa493db4ccd26bacf955a438e5e72096a827b2d6f2e2afa",
+"version.txt": "ccffcf4e5ee86ed775330af1b979bee95f41a56b86652ae110bca8bf42d82934"
 }
