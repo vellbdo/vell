@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.5",
- "numero": 1795771950,
- "commit": "030a9b5c",
+ "numero": 1795772286,
+ "commit": "11944d33",
  "date": "2026-11-27",
  "socle": "73153f0f9d9319f0",
- "notes": "Fenêtre en jeu : la faune sauvage (forêts, steppes) n'est plus présentée en zone de chasse.",
+ "notes": "Zone de chasse : la dernière case cochée passe à l'étape suivante.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -118,6 +118,13 @@
    "fichier": "test/paquets/vell-maj-1795771950.zip",
    "sha256": "ea50bc0ab87ae31cc62ac5db267330d4624758919d742c810d9a7d0236a898fa",
    "taille": 6749
+  },
+  {
+   "depuis": 1795771950,
+   "numero": 1795772286,
+   "fichier": "test/paquets/vell-maj-1795772286.zip",
+   "sha256": "c84fe9af600f10c91674e9954f5eef802012c0ce5f4d7737620a7db35ebfe520",
+   "taille": 67946
   }
  ],
  "installateur": {
