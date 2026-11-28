@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795857423,
- "commit": "8cade5b3",
+ "numero": 1795859844,
+ "commit": "14740729",
  "date": "2026-11-28",
  "socle": "73153f0f9d9319f0",
- "notes": "Mises à jour : la fenêtre dit seulement « Vell doit être mis à jour » avec le numéro de version.",
+ "notes": "",
  "maj": [
   {
    "depuis": 1795370573,
@@ -230,6 +230,13 @@
    "fichier": "test/paquets/vell-maj-1795857423.zip",
    "sha256": "efbbcc59c80022233dd6b37ba41348cd36d1ef8e7a935a88bec1415bdbacec2e",
    "taille": 26019
+  },
+  {
+   "depuis": 1795857423,
+   "numero": 1795859844,
+   "fichier": "test/paquets/vell-maj-1795859844.zip",
+   "sha256": "7fa1be84d9840f8d142417da81c3a4236f7a6c49af5e23a572cbe2d43285b483",
+   "taille": 82605
   }
  ],
  "installateur": {
