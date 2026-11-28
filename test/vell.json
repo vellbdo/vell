@@ -1,8 +1,8 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795862454,
- "commit": "576ead3a",
+ "numero": 1795862894,
+ "commit": "0a26993c",
  "date": "2026-11-28",
  "socle": "73153f0f9d9319f0",
  "notes": "",
@@ -244,6 +244,13 @@
    "fichier": "test/paquets/vell-maj-1795862454.zip",
    "sha256": "7e21aed552d8f7f6a5e85a37ffe17c92b3639fa3e3ef1fdfd721dbd67ba09289",
    "taille": 41397
+  },
+  {
+   "depuis": 1795862454,
+   "numero": 1795862894,
+   "fichier": "test/paquets/vell-maj-1795862894.zip",
+   "sha256": "e7a3e9203ea87cb6d1d00f98882e60da5e655df42a105b0d1f077b86f0a4d93f",
+   "taille": 41753
   }
  ],
  "installateur": {
