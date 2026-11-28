@@ -5161,7 +5161,7 @@
 "bdo_companion/modules/energie/lieux_point3.pyc": "850640ec88a2bfa6aacfa963427d2dac8a92e7440135d78e3743bbd30b52b061",
 "bdo_companion/modules/energie/locations.pyc": "962cac1ea7ce915324cade68efcda52b3896511e332f2f7b4ba16e25c73e07d9",
 "bdo_companion/modules/energie/logic.pyc": "6af25df30309115ed306788c24596c9c40d19fa36b23d8d934238aab443062d0",
-"bdo_companion/modules/energie/maximiser.pyc": "c40c39d246ca6230c2e0711a73ed73e7f663e8fbde74911950c0b312aaf96c31",
+"bdo_companion/modules/energie/maximiser.pyc": "362302e4e19750a48d6d607ba5a68cf5e18b77ca2501111d940858fb41a4ae22",
 "bdo_companion/modules/energie/mes_quetes.pyc": "ffc574f9dec9d8d669bf6f3fdb8babaf3ed3ff4ebd816790a4da5654427ecddd",
 "bdo_companion/modules/energie/mini_etapes.pyc": "a799f35a8af3284c9a429c38c25ffda2f777284bcf757aedd6a06cd9050b8d23",
 "bdo_companion/modules/energie/moteur_energie.pyc": "7f997f0930d349d1e2285519463e560c8329872e0dab633734619b4d13522fb4",
@@ -9168,6 +9168,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "d3e02bb8788ed28427d222df06ea0c90642a769b92f0120a0bc1730994a6fe8f",
-"version.txt": "00f6552eb21a20d45200585fa979d302d561c2cfd2fc91aef2517ad2fe308c04"
+"version.json": "fe9454ceef96bf42fa4173d165ad81b7cf7305dc6ba93555d280f4be76ffca9c",
+"version.txt": "d0e46b12ae3e6f5d7eaf3c2a1a90cc8a676922d14eb3d06b41a15086c415d51c"
 }
