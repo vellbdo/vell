@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795818995,
- "commit": "c884df31",
- "date": "2026-11-27",
+ "numero": 1795825919,
+ "commit": "8426b0b5",
+ "date": "2026-11-28",
  "socle": "73153f0f9d9319f0",
- "notes": "Position : recherche large où que soit le joueur ; minicarte sans repère (désert) : départ de la région lue ; minicarte étalonnée sur 96 % ; interface conseillée 90-100 %.",
+ "notes": "Signaler : le bouton ouvre le Discord de Vell (le forum du site est retiré).",
  "maj": [
   {
    "depuis": 1795370573,
@@ -216,6 +216,13 @@
    "fichier": "test/paquets/vell-maj-1795818995.zip",
    "sha256": "55f7164a60d7bf405af0bfd7d0607810a8a6867adccf28cb8853e071d6d1283c",
    "taille": 55846
+  },
+  {
+   "depuis": 1795818995,
+   "numero": 1795825919,
+   "fichier": "test/paquets/vell-maj-1795825919.zip",
+   "sha256": "ff7e64d3dc125999b74d4a038d3e4494dc452b9be57e69b49fe29eb7ae72024a",
+   "taille": 18350
   }
  ],
  "installateur": {

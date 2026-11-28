@@ -30,7 +30,7 @@
 "bdo_companion/core/backup.pyc": "235e852c273f73631fa69818adb76c702fefbcd32becc96d063e2c7a20c26cf5",
 "bdo_companion/core/data/items_fr.json.gz": "5279833eba7c5c597ab3293e5023599c776958a72b81d64cddf0061088a75cba",
 "bdo_companion/core/db.pyc": "844468f28c406ede35b59fbd9814442d1fdc08618ed73393dd202250390deed1",
-"bdo_companion/core/edition.pyc": "50f1850cf62e0709d03fe3eff97d9188c09484c6fb344b9e9bef72d33247d7ff",
+"bdo_companion/core/edition.pyc": "606c55bd73118a99f3e48c622c97048c0c5638751f4ff3feb9136505f92ad71b",
 "bdo_companion/core/i18n.pyc": "bf8aa1d64cebf4475c4323d7dbe6395eaf3d0b2056bb371360cdaae3baec2d6e",
 "bdo_companion/core/items.pyc": "259a3159e87ccf36364d9160e618faf0dd109469b72792b405a7e6e649daf7d1",
 "bdo_companion/core/journal.pyc": "4611957b49864a5417cf3addeaf9c13c5c80236120df6dab4bfe3067dc869398",
@@ -5200,7 +5200,7 @@
 "bdo_companion/modules/objectifs/route.pyc": "f2b86f5d61072945b384b0db1a014e1e920e94e1349f7eda5efe1e20fb562bd9",
 "bdo_companion/modules/signaler/__init__.pyc": "c0003d94aef364492b66e2ae881cd646c4e58b3dfdece10e7287582c071dd33a",
 "bdo_companion/modules/signaler/logic.pyc": "40b8b9f32a868616419627d3bfc49cae8aca67618a1180ac549997a063ff2ff3",
-"bdo_companion/modules/signaler/page.pyc": "074c57cc17ba1b49a3d49c8cc3b097a25e5de4e7a94c215bae01cc8da1e7d9fa",
+"bdo_companion/modules/signaler/page.pyc": "d9f82b4bd2b77c2f472cc72e938db7b7e360b768afedc3e4fecce46e50e599af",
 "bdo_companion/monde/__init__.pyc": "0d90b22c0825529b1124de15b5243982594f4f913e47a467cb207b3a15222746",
 "bdo_companion/monde/carte.pyc": "2df3943cb323358cfb85c680b4d519f6feeaa5ddc1ffed0de9fd93a9f731f51d",
 "bdo_companion/monde/data/atlas.json": "495ee37bc8651aa2ee2989032f436a2d3fb946f1a5e2d69cde7ba0532f8a506f",
@@ -9166,6 +9166,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "94eca37502a97d47234e65b405379ab414e93c715e48f9c9a1b0dc5fef90d0d3",
-"version.txt": "7aa500fc4a96b693cf021c1b056967848c0eaf2b2d07d825c412a9d3f2d9d22d"
+"version.json": "32d5665b19e387337797a3fdaacfd6ef69fc8c666e3a66910adef917acaaba74",
+"version.txt": "ba86c78d6206cadaef276404a6840f581140a44467d5a454aec0c50c6dae7fd6"
 }
