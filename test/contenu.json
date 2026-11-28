@@ -5161,7 +5161,7 @@
 "bdo_companion/modules/energie/lieux_point3.pyc": "850640ec88a2bfa6aacfa963427d2dac8a92e7440135d78e3743bbd30b52b061",
 "bdo_companion/modules/energie/locations.pyc": "962cac1ea7ce915324cade68efcda52b3896511e332f2f7b4ba16e25c73e07d9",
 "bdo_companion/modules/energie/logic.pyc": "6af25df30309115ed306788c24596c9c40d19fa36b23d8d934238aab443062d0",
-"bdo_companion/modules/energie/maximiser.pyc": "b8ac463e6bca2294901eac3f5646c2b712ee38b48e326a690c8f921f5f1bb017",
+"bdo_companion/modules/energie/maximiser.pyc": "c40c39d246ca6230c2e0711a73ed73e7f663e8fbde74911950c0b312aaf96c31",
 "bdo_companion/modules/energie/mes_quetes.pyc": "ffc574f9dec9d8d669bf6f3fdb8babaf3ed3ff4ebd816790a4da5654427ecddd",
 "bdo_companion/modules/energie/mini_etapes.pyc": "a799f35a8af3284c9a429c38c25ffda2f777284bcf757aedd6a06cd9050b8d23",
 "bdo_companion/modules/energie/moteur_energie.pyc": "7f997f0930d349d1e2285519463e560c8329872e0dab633734619b4d13522fb4",
@@ -5180,7 +5180,7 @@
 "bdo_companion/modules/energie/requirements.pyc": "689f7e65b37c724aefcfc52bab646459ceb21b9c13b6d262c3625d4729caabbb",
 "bdo_companion/modules/energie/tips.pyc": "8eff67465fb1a7418282e88bbab487a8f8df273e3fb28330e3f89f62a781f4b2",
 "bdo_companion/modules/energie/titles.pyc": "f0a2dc2b15d84286d3bd8c38e1597e3f809245fb7d8002bc0e4f92478bd235cb",
-"bdo_companion/modules/energie/voyage.pyc": "7c84332f2cf64ab0363a6a5e6133a8e3b6b5763d3cf6cc437300ea4c27974fa0",
+"bdo_companion/modules/energie/voyage.pyc": "e531ed9faa59d7be3c92f04b43c26c38435f04293b3a3cf4b9c4de8ea23f3568",
 "bdo_companion/modules/energie/zones_chasse.pyc": "f2d69b6167f8f8ab2837416a3978dfe2b287711a82d3ca472878ea779d2fa252",
 "bdo_companion/modules/lecture/__init__.pyc": "8e3f352f0aaad1a5d3c6d136173ecc37560aa7d43196e288603164a1ffcbfcc2",
 "bdo_companion/modules/lecture/page.pyc": "360ccf8553b9867bf362d9fc2163504ba7c73b318bbf85ee6e0781f9c852f47c",
@@ -9168,6 +9168,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "4b931a1d83d3195cbf9cb63404ba6bb313a04ca3736ba4cce1dc5fbce148f819",
-"version.txt": "0074d0b61801cfee2f32343f21781c8f70894e414c3a7b16e590805c62eb0e83"
+"version.json": "d3e02bb8788ed28427d222df06ea0c90642a769b92f0120a0bc1730994a6fe8f",
+"version.txt": "00f6552eb21a20d45200585fa979d302d561c2cfd2fc91aef2517ad2fe308c04"
 }
