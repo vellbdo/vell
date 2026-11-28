@@ -34,7 +34,7 @@
 "bdo_companion/core/i18n.pyc": "bf8aa1d64cebf4475c4323d7dbe6395eaf3d0b2056bb371360cdaae3baec2d6e",
 "bdo_companion/core/items.pyc": "259a3159e87ccf36364d9160e618faf0dd109469b72792b405a7e6e649daf7d1",
 "bdo_companion/core/journal.pyc": "4611957b49864a5417cf3addeaf9c13c5c80236120df6dab4bfe3067dc869398",
-"bdo_companion/core/mises_a_jour.pyc": "7ae7b9320eb91b8c818ac81766445818bbe135db67309d0ed79585704e4da6dd",
+"bdo_companion/core/mises_a_jour.pyc": "d6e3b1e858a9e7e5f6362c4047323cb80bc3c611223bc1d8db3ba91e651fea9d",
 "bdo_companion/core/module.pyc": "cd52caaec3ce9dbbd0799a1b9d1c856b287d117787b261a6e424e2f44e6b4f07",
 "bdo_companion/core/paths.pyc": "50bcdf62313ba23b08cfef792a86b1f3263e624ae8ca689541e86fa33fe2592e",
 "bdo_companion/core/reglages.pyc": "5187ccb7be06d6610c33600fb06bfac3a8cda6bf5570a54dae7f4202250f573e",
@@ -44,7 +44,7 @@
 "bdo_companion/modules/__init__.pyc": "bcc7747f90eca5dbf3d179ac86883ba9b19f29a0da533b21f920f2b206b3955a",
 "bdo_companion/modules/accueil/__init__.pyc": "b818511629ddc46f6d48d165e54c43791fb4fd1b512b545fc6923c7645d710d1",
 "bdo_companion/modules/accueil/logic.pyc": "c6c7e7a1d94c8ef6931eb41590aed8f2e8f3df1647334503d1903135702c1f5e",
-"bdo_companion/modules/accueil/page.pyc": "09accd682774bf681013bb5ce70703ea11c96e13c5da7c986dcc0ce39dcdae8b",
+"bdo_companion/modules/accueil/page.pyc": "d3c04d26a2a7254bfd0f677aab3691650dd2f5c4d8f5916822739524b2f08737",
 "bdo_companion/modules/compte/__init__.pyc": "0625d4ac728e33a22b1b9350a4daffe1c20e335eb55264607e563a01af35322c",
 "bdo_companion/modules/compte/data/class_icons/Archer.webp": "835c8bdab1a5f47041c9eea61483b2f5a492741a97e154e5ae9a5239ee071938",
 "bdo_companion/modules/compte/data/class_icons/Berserker.webp": "e5c9d355164f14d890659dd55538c0301392a9ac09c3c06f46d8db22fc5e200b",
@@ -9153,7 +9153,7 @@
 "bdo_companion/ui/logo.pyc": "8289a409b148f8b1b585e1365b100c95991446eda9b1f3f26474d019a2006264",
 "bdo_companion/ui/magic_glow.pyc": "ea634059029334149e976e7b03551debc6ccd500779a60b4293b971732c5ad6c",
 "bdo_companion/ui/main_window.pyc": "8d9d11cda18e160e30ea124d3ebe1ef75dda5276b381ea61af4a903175b553c7",
-"bdo_companion/ui/mises_a_jour.pyc": "22c19df977022f73ef0eb7422690a3b96a1a011c9e5e9f5c96c843de150e84df",
+"bdo_companion/ui/mises_a_jour.pyc": "5f3ab9b4b8ceb35d33379166bcd3d2b6ab9105b3bfcc98a8b8de5f6714310326",
 "bdo_companion/ui/page_art.pyc": "c0a9444ca6b07905110bea66f459af7b43e7a07828c2bdc23cd51ed170ed32be",
 "bdo_companion/ui/panels.pyc": "d16a2b322482225729e84c13a2a7cd08b29299c34f25d082c61ce9689d1674e5",
 "bdo_companion/ui/single_instance.pyc": "d004d92ba245888460b3d477fa413c1c708d1b7b0aded9b56fd2294fcc0b7ed2",
@@ -9166,6 +9166,6 @@
 "bdo_companion/ui/topbar.pyc": "8a8547eea5c6c38ec561ae6c117e499588c7dcb8b141468ec9cdb032626898f6",
 "bdo_companion/ui/widgets.pyc": "5a7a0be4fce367148d416a26a67c80362981e4fab5aac26b113544889459dc9c",
 "bdo_companion/ui/worldmap.pyc": "6eaf0b1cb095492794721e152b3860c903e13c4ca7e2126a0c038f9818f478d7",
-"version.json": "32d5665b19e387337797a3fdaacfd6ef69fc8c666e3a66910adef917acaaba74",
-"version.txt": "ba86c78d6206cadaef276404a6840f581140a44467d5a454aec0c50c6dae7fd6"
+"version.json": "bb10d4ff77ac0b04f9897b872aec6fa08e59e93947972606936a2728ca52d663",
+"version.txt": "526d405370d0190827cb246c78d5ffcdf946fd7d314613971fb218b6cc647f8e"
 }

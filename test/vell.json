@@ -1,11 +1,11 @@
 {
  "format": 2,
  "version": "0.6",
- "numero": 1795825919,
- "commit": "8426b0b5",
+ "numero": 1795857423,
+ "commit": "8cade5b3",
  "date": "2026-11-28",
  "socle": "73153f0f9d9319f0",
- "notes": "Signaler : le bouton ouvre le Discord de Vell (le forum du site est retiré).",
+ "notes": "Mises à jour : la fenêtre dit seulement « Vell doit être mis à jour » avec le numéro de version.",
  "maj": [
   {
    "depuis": 1795370573,
@@ -223,6 +223,13 @@
    "fichier": "test/paquets/vell-maj-1795825919.zip",
    "sha256": "ff7e64d3dc125999b74d4a038d3e4494dc452b9be57e69b49fe29eb7ae72024a",
    "taille": 18350
+  },
+  {
+   "depuis": 1795825919,
+   "numero": 1795857423,
+   "fichier": "test/paquets/vell-maj-1795857423.zip",
+   "sha256": "efbbcc59c80022233dd6b37ba41348cd36d1ef8e7a935a88bec1415bdbacec2e",
+   "taille": 26019
   }
  ],
  "installateur": {
